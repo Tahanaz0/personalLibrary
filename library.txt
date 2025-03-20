@@ -1,1 +1,1 @@
-[{"title": "", "author": "", "year": "", "genre": "", "read": true}, {"title": "heelo", "author": "hello", "year": "2003", "genre": "bbb", "read": true}]
+[{"title": "", "author": "", "year": "", "genre": "", "read": true}]
